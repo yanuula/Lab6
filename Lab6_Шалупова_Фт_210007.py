@@ -6,6 +6,7 @@ def convertToInt(n):
     except Exception:
         return -1
     return n
+#матрица
 def inputTable(table, n):
     for i in range(n):
         for j in range(n):
@@ -39,6 +40,7 @@ def countWQ(table,n,sum):
         arrayWQ.append(columnSum/sum)
     return arrayWQ
 n = 0
+#Ввод количества критериев
 while n == 0:
     n = input("Введите количество критериев: ")
     n = convertToInt(n)
@@ -50,7 +52,7 @@ a = inputTable(a,n)
 a_sum = tableSum(a,n)
 WQ = countWQ(a,n,a_sum)
 WQ.reverse()
-print("Весовые коэффициенты:", end=" ")
+print("Весовые коэффициенты:", end=" ") #Вывод весовых коэффицентов
 for elem in WQ:
     print("{0:.2f}".format(elem), end=" ")
 m.getch()
