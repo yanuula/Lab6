@@ -6,5 +6,5 @@
 Программа, реализующая метод анализа иерархий Томаса Саати для одного уровня.
 # Среда программирования
 Программа написана на языке Python в Visual studio 2019.
-# Тест 1 ![Снимок экрана (68)](https://user-images.githubusercontent.com/113615651/195994175-d9a1b8a2-dfcf-467b-a968-3f9c6f45c644.png)
-# Тест 2 ![Снимок экрана (67)](https://user-images.githubusercontent.com/113615651/195994183-02ffebce-9b2b-4c54-b156-00e155281bad.png)
+# Тест 1 ![Снимок экрана (76)](https://user-images.githubusercontent.com/113615651/201623362-8f370dee-012c-4f8f-8360-f829d38ba4bf.png)
+# Тест 2 ![Снимок экрана (77)](https://user-images.githubusercontent.com/113615651/201623390-161e9d7a-ab96-4567-b705-2895a8b6a587.png)
